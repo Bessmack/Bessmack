@@ -6,25 +6,25 @@
 
 ## 🚀 What I Do
 
-🧠 Design and build efficient systems and APIs
+- 🧠 Design and build efficient systems and APIs
 
-🛠️ Develop React + JSON-server full-stack apps
+- 🛠️ Develop React + JSON-server full-stack apps
 
-🐳 Learning Docker & Kubernetes for better deployments
+- 🐳 Learning Docker & Kubernetes for better deployments
 
-🏗️ Create apps that work in areas with limited tech solutions
+- 🏗️ Create apps that work in areas with limited tech solutions
 
-🔍 Dive deep into cars, mechanics, and communication for impact
+- 🔍 Dive deep into cars, mechanics, and communication for impact
 
 ## 🔧 Tech & Tools I Use
 
-Frontend: React, Vite, Tailwind CSS
+- Frontend: React, Vite, Tailwind CSS
 
-Backend: Flask, PostgreSQL, JSON-server
+- Backend: Flask, PostgreSQL, JSON-server
 
-DevOps: Docker, Kubernetes (learning)
+- DevOps: Docker, Kubernetes (learning)
 
-Others: Linux, Git, REST APIs
+- Others: Linux, Git, REST APIs
 
 ## 📌 Featured Projects
 ### 🚚 Food Ordering & Delivery App
@@ -48,7 +48,7 @@ Others: Linux, Git, REST APIs
 - 📧 bessmacknjenga@gmail.com
  (or your preferred email)
 
-🌐 Portfolio "https://stephen-njenga-portfolio.vercel.app"
+- 🌐 Portfolio: https://stephen-njenga-portfolio.vercel.app
 
 ### ⚡ Fun Fact
 
