@@ -1,10 +1,9 @@
-## Hi there 👋.
 <h1 align="center">✨ Bessmack Njenga ✨</h1>
 <p align="center">Developer • System Builder • DevOps Apprentice</p>
 
 ---
 
-I design and build lightweight, real-world applications using modern tooling.
+## Hi there 👋. I design and build lightweight, real-world applications using modern tooling.
 
 ## Core Focus Areas
 - Full-stack development (React + REST APIs)
