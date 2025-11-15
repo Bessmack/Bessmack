@@ -1,4 +1,8 @@
-## Hi there 👋. 🧑‍💻 Bessmack Njenga — Full-Stack & Systems Developer
+## Hi there 👋.
+<h1 align="center">✨ Bessmack Njenga ✨</h1>
+<p align="center">Developer • System Builder • DevOps Apprentice</p>
+
+---
 
 I design and build lightweight, real-world applications using modern tooling.
 
