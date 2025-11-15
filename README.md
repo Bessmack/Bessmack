@@ -1,54 +1,30 @@
-## Hi there 👋
-## I'm Bessmack Njenga
+## Hi there 👋. 🧑‍💻 Bessmack Njenga — Full-Stack & Systems Developer
 
--I’m a passionate self-taught developer with a strong focus on system development, DevOps, and full-stack engineering.
--I love building practical applications that solve real problems — from delivery systems to financial tools, task managers, and car-related platforms.
+I design and build lightweight, real-world applications using modern tooling.
 
-## 🚀 What I Do
+## Core Focus Areas
+- Full-stack development (React + REST APIs)
+- System architecture for small to medium applications
+- Docker, containers, and early Kubernetes practice
+- Backend development with Flask & PostgreSQL
+- Linux tooling and DevOps workflows
+- Automotive engineering knowledge
 
-- 🧠 Design and build efficient systems and APIs
+## Primary Technologies
+**Frontend:** React, Vite, Tailwind  
+**Backend:** Flask, JSON-server, PostgreSQL  
+**DevOps:** Docker, Linux, CI/CD basics
 
-- 🛠️ Develop React + JSON-server full-stack apps
+## Selected Projects
+- **Food Ordering System** — delivery solution for regions without existing apps  
+- **Smart Goal Planner** — CRUD financial planning app  
+- **Plant Shop App** — product listing, search, and stock management  
+- **Automotive Platform** — info and tools for car enthusiasts  
 
-- 🐳 Learning Docker & Kubernetes for better deployments
+## Contact
+📧 bessmacknjenga@gmail.com
 
-- 🏗️ Create apps that work in areas with limited tech solutions
-
-- 🔍 Dive deep into cars, mechanics, and communication for impact
-
-## 🔧 Tech & Tools I Use
-
-- Frontend: React, Vite, Tailwind CSS
-
-- Backend: Flask, PostgreSQL, JSON-server
-
-- DevOps: Docker, Kubernetes (learning)
-
-- Others: Linux, Git, REST APIs
-
-## 📌 Featured Projects
-### 🚚 Food Ordering & Delivery App
-
--A simple ordering system designed for regions without existing delivery platforms.
-
-### 💸 Smart Goal Planner
-
--A CRUD financial goals manager built with React and JSON-server.
-
-### 🌱 Plant Shop App
-
--Plant listing, filtering, adding, editing, and stock tracking.
-
-### 🛠️ Car-Based Website
-
--A full-stack automotive platform to showcase car info and services.
-
-## 📫 Connect With Me
-
-- 📧 bessmacknjenga@gmail.com
- (or your preferred email)
-
-- 🌐 Portfolio: https://stephen-njenga-portfolio.vercel.app
+🌐 Portfolio: https://stephen-njenga-portfolio.vercel.app
 
 ### ⚡ Fun Fact
 
