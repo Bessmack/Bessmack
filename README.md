@@ -43,6 +43,17 @@ Others: Linux, Git, REST APIs
 
 -A full-stack automotive platform to showcase car info and services.
 
+## 📫 Connect With Me
+
+- 📧 bessmacknjenga@gmail.com
+ (or your preferred email)
+
+🌐 Portfolio "https://stephen-njenga-portfolio.vercel.app"
+
+### ⚡ Fun Fact
+
+I’m constantly learning something new — whether it's mechanics, Linux, Docker, or improving how to communicate with clarity and impact.
+
 <!--
 **Bessmack/Bessmack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
