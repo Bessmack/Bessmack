@@ -25,9 +25,11 @@
 - **Automotive Platform** — info and tools for car enthusiasts  
 
 ## Contact
-📧 bessmacknjenga@gmail.com
+📧 jenwied4lif@gmail.com
 
 🌐 Portfolio: https://stephen-njenga-portfolio.vercel.app
+### 😄 Pronouns:
+Male/He/Him
 
 ### ⚡ Fun Fact
 
