@@ -24,12 +24,12 @@
 - **Plant Shop App** — product listing, search, and stock management  
 - **Automotive Platform** — info and tools for car enthusiasts  
 
-## Contact
+## Contact to reach me
 📧 jenwied4lif@gmail.com
 
 🌐 Portfolio: https://stephen-njenga-portfolio.vercel.app
 ### 😄 Pronouns:
-Male/He/Him
+He/Him/Male
 
 ### ⚡ Fun Fact
 
