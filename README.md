@@ -3,7 +3,7 @@
 
 ---
 
-## Hi there 👋. I design and build lightweight, real-world applications using modern tooling.
+## Hi there 👋. I design and build lightweight, real-world applications using both modern and almost outdated tools.
 
 ## Core Focus Areas
 - Full-stack development (React + REST APIs)
